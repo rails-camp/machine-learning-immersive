@@ -1,0 +1,11 @@
+Age,Education,Income,Marital Status,Purchased
+36-55, Masters, High, Single,1
+18-35, High School, Low, Single,0
+36-55,, High, Single,1
+18-35, PhD, Low,,1
+, High School, Low, Single,1
+55+, High School, High, Married,0
+55+, High School,, Married,1
+, High School,, Married,1
+55+, High School, High, Married,1
+< 18, Masters, Low, Single,0
