@@ -1,11 +1,11 @@
-Age,Education,Income,Marital Status,Purchased
-36-55, Masters, High, Single,1
-18-35, High School, Low, Single,0
-36-55,, High, Single,1
-18-35, PhD, Low,,1
-, High School, Low, Single,1
-55+, High School, High, Married,0
-55+, High School,, Married,1
-, High School,, Married,1
-55+, High School, High, Married,1
-< 18, Masters, Low, Single,0
+Age,Income,Education,Marital Status,Purchased
+42,120000,Masters,Single,1
+23,32000,High School,Single,0
+,142000,Bachelors,Single,1
+29,19000,PhD,Married,1
+,21000,High School,Single,1
+62,85000,High School,Married,0
+70,,Bachelors,Married,1
+,0,High School,Married,1
+54,35000,High School,Married,1
+16,16000,Masters,Single,0
